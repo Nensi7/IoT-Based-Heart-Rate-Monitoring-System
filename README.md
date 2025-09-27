@@ -74,4 +74,3 @@ The system measures the heartbeat in **Beats Per Minute (BPM)** and displays it 
 ## 👥 Team Members
 - **Nensi Chavda** – Coding & Implementation
 - **Darshita Bhatt** – Circuit Connections & Hardware Setup
-"""
